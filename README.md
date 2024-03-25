@@ -1,1 +1,4 @@
-# Summarizing_Arabic_texts.NLP
+# Summarizing Arabic Texts 
+
+## About Dataset:
+* نسخة معدلة من بيانات مجمعة من عدة مصادر تحتوي على تعليقات عن فنادق ، كتب ، ميديا و حتى خطوط طيران مصنفة الى سلبية و إيجابية
